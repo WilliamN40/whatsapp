@@ -1,0 +1,14 @@
+* {
+    font-size:20px
+}
+
+button{
+    font-size:4em;
+    margin:0.5em 0;
+    padding:0.5em;
+}
+
+textarea{
+    width:auto;
+    height:auto;
+}
